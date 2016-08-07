@@ -137,7 +137,7 @@
             storeInput(removeIndex,matchedTags,friendly) {
 
                 console.log(matchedTags);
-                this.$http.post('/topic/' + this.topic.id + '/input/',{
+                this.$http.post('/topic/' + this.topic.id + '/input',{
                     'name' : this.new_input,
                     'type' : friendly? 'postive' : 'negtive'
                 }).then(

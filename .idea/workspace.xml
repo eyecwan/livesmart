@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="05076afe-5db6-4dde-bd6e-717624acaea7" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/assets/js/main.js" afterPath="$PROJECT_DIR$/resources/assets/js/main.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/assets/js/components/LeaveInput.vue" afterPath="$PROJECT_DIR$/resources/assets/js/components/LeaveInput.vue" />
     </list>
     <ignored path="livesmart.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -31,11 +30,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
+      <file leaf-file-name="LeaveInput.vue" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/resources/assets/js/components/LeaveInput.vue">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="196">
-              <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+            <state relative-caret-position="3892">
+              <caret line="139" column="67" selection-start-line="139" selection-start-column="62" selection-end-line="139" selection-end-column="67" />
               <folding />
             </state>
           </provider>
@@ -103,7 +102,6 @@
         <option value="$PROJECT_DIR$/app/Http/Controllers/HomeController.php" />
         <option value="$PROJECT_DIR$/resources/views/home.blade.php" />
         <option value="$PROJECT_DIR$/app/User.php" />
-        <option value="$PROJECT_DIR$/app/Http/routes.php" />
         <option value="$PROJECT_DIR$/resources/views/input/index2.blade.php" />
         <option value="$PROJECT_DIR$/app/Http/Controllers/InputController.php" />
         <option value="$PROJECT_DIR$/resources/assets/js/components/FollowTopic.vue" />
@@ -115,9 +113,10 @@
         <option value="$PROJECT_DIR$/app/Http/Controllers/TopicController.php" />
         <option value="$PROJECT_DIR$/resources/assets/js/components/Topics.vue" />
         <option value="$PROJECT_DIR$/resources/views/user/my.blade.php" />
-        <option value="$PROJECT_DIR$/resources/assets/js/components/LeaveInput.vue" />
         <option value="$PROJECT_DIR$/resources/assets/js/main.js" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/app/Http/routes.php" />
+        <option value="$PROJECT_DIR$/resources/assets/js/components/LeaveInput.vue" />
       </list>
     </option>
   </component>
@@ -286,7 +285,7 @@
     <property name="WebServerToolWindowFactoryState" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
     <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
-    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://C:/cygwin64/home/eyecwan/sites/livesmart/resources/assets/js/components/LeaveInput.vue&#10;input&#9;FILE&#9;file://C:/cygwin64/home/eyecwan/sites/livesmart/resources/assets/js/components/Input.vue&#10;route&#9;FILE&#9;file://C:/cygwin64/home/eyecwan/sites/livesmart/app/Http/routes.php&#10;topic&#9;FILE&#9;file://C:/cygwin64/home/eyecwan/sites/livesmart/app/Http/Controllers/TopicController.php&#10;inputcon&#9;FILE&#9;file://C:/cygwin64/home/eyecwan/sites/livesmart/app/Http/Controllers/InputController.php&#10;wechat&#9;FILE&#9;file://C:/cygwin64/home/eyecwan/sites/livesmart/config/wechat.php&#10;leave&#9;FILE&#9;file://C:/cygwin64/home/eyecwan/sites/livesmart/resources/assets/js/components/LeaveInput.vue&#10;topics&#9;FILE&#9;file://C:/cygwin64/home/eyecwan/sites/livesmart/resources/assets/js/components/Topics.vue&#10;ind&#9;FILE&#9;file://C:/cygwin64/home/eyecwan/sites/livesmart/resources/views/topic/index.blade.php&#10;index&#9;FILE&#9;file://C:/cygwin64/home/eyecwan/sites/livesmart/resources/views/topic/index.blade.php&#10;user&#9;FILE&#9;file://C:/cygwin64/home/eyecwan/sites/livesmart/app/Http/Controllers/UserController.php&#10;usercon&#9;FILE&#9;file://C:/cygwin64/home/eyecwan/sites/livesmart/app/Http/Controllers/UserController.php&#10;show&#9;FILE&#9;file://C:/cygwin64/home/eyecwan/sites/livesmart/resources/views/user/show.blade.php&#10;main&#9;FILE&#9;file://C:/cygwin64/home/eyecwan/sites/livesmart/resources/assets/js/main.js&#10;inpu&#9;FILE&#9;file://C:/cygwin64/home/eyecwan/sites/livesmart/resources/assets/js/components/Input.vue&#10;t&#9;FILE&#9;file://C:/cygwin64/home/eyecwan/sites/livesmart/app/Http/Controllers/TopicController.php&#10;in&#9;FILE&#9;file://C:/cygwin64/home/eyecwan/sites/livesmart/resources/assets/js/components/Input.vue&#10;usercont&#9;FILE&#9;file://C:/cygwin64/home/eyecwan/sites/livesmart/app/Http/Controllers/UserController.php&#10;home&#9;FILE&#9;file://C:/cygwin64/home/eyecwan/sites/livesmart/app/Http/Controllers/HomeController.php&#10;auth&#9;FILE&#9;file://C:/cygwin64/home/eyecwan/sites/livesmart/app/Http/Middleware/Authenticate.php&#10;app&#9;FILE&#9;file://C:/cygwin64/home/eyecwan/sites/livesmart/resources/views/layouts/app.blade.php&#10;routes&#9;FILE&#9;file://C:/cygwin64/home/eyecwan/sites/livesmart/app/Http/routes.php&#10;leav&#9;FILE&#9;file://C:/cygwin64/home/eyecwan/sites/livesmart/resources/assets/js/components/LeaveInput.vue&#10;Input&#9;FILE&#9;file://C:/cygwin64/home/eyecwan/sites/livesmart/app/Http/Controllers/InputController.php&#10;fo&#9;FILE&#9;file://C:/cygwin64/home/eyecwan/sites/livesmart/resources/assets/js/components/FollowTopic.vue&#10;show.&#9;FILE&#9;file://C:/cygwin64/home/eyecwan/sites/livesmart/resources/views/topic/show.blade.php&#10;my&#9;FILE&#9;file://C:/cygwin64/home/eyecwan/sites/livesmart/resources/views/user/my.blade.php&#10;accesstoken&#9;null&#9;null&#10;app.&#9;FILE&#9;file://C:/cygwin64/home/eyecwan/sites/livesmart/resources/views/layouts/app.blade.php&#10;create user table&#9;FILE&#9;file://C:/cygwin64/home/eyecwan/sites/livesmart/database/migrations/2014_10_12_000000_create_users_table.php&#10;home.&#9;FILE&#9;file://C:/cygwin64/home/eyecwan/sites/livesmart/resources/views/home.blade.php&#10;home.bl&#9;FILE&#9;file://C:/cygwin64/home/eyecwan/sites/livesmart/resources/views/home.blade.php&#10;input.ph&#9;FILE&#9;file://C:/cygwin64/home/eyecwan/sites/livesmart/app/Input.php&#10;top&#9;FILE&#9;file://C:/cygwin64/home/eyecwan/sites/livesmart/app/Http/Controllers/TopicController.php&#10;input.&#9;FILE&#9;file://C:/cygwin64/home/eyecwan/sites/livesmart/app/Input.php&#10;gulp&#9;FILE&#9;file://C:/cygwin64/home/eyecwan/sites/livesmart/gulpfile.js&#10;csr&#9;FILE&#9;file://C:/cygwin64/home/eyecwan/sites/livesmart/app/Http/Middleware/VerifyCsrfToken.php&#10;welcome&#9;FILE&#9;file://C:/cygwin64/home/eyecwan/sites/livesmart/resources/views/welcome.blade.php&#10;follow&#9;FILE&#9;file://C:/cygwin64/home/eyecwan/sites/livesmart/resources/assets/js/components/FollowTopic.vue&#10;topiccont&#9;FILE&#9;file://C:/cygwin64/home/eyecwan/sites/livesmart/app/Http/Controllers/TopicController.php&#10;authcon&#9;FILE&#9;file://C:/cygwin64/home/eyecwan/sites/livesmart/app/Http/Controllers/Auth/AuthController.php&#10;create user&#9;FILE&#9;file://C:/cygwin64/home/eyecwan/sites/livesmart/database/migrations/2016_07_02_003706_create_follower_user_pivot_table.php&#10;login&#9;null&#9;null&#10;gu&#9;FILE&#9;file://C:/cygwin64/home/eyecwan/sites/livesmart/gulpfile.js&#10;foll&#9;FILE&#9;file://C:/cygwin64/home/eyecwan/sites/livesmart/resources/assets/js/components/FollowTopic.vue&#10;app.bl&#9;FILE&#9;file://C:/cygwin64/home/eyecwan/sites/livesmart/resources/views/layouts/app.blade.php&#10;createinput&#9;FILE&#9;file://C:/cygwin64/home/eyecwan/sites/livesmart/database/migrations/2016_05_26_064545_create_inputs_table.php&#10;fol&#9;FILE&#9;file://C:/cygwin64/home/eyecwan/sites/livesmart/resources/assets/js/components/FollowTopic.vue&#10;topi&#9;FILE&#9;file://C:/cygwin64/home/eyecwan/sites/livesmart/resources/assets/js/components/FollowTopic.vue&#10;topiccon&#9;FILE&#9;file://C:/cygwin64/home/eyecwan/sites/livesmart/app/Http/Controllers/TopicController.php" />
+    <property name="SearchEverywhereHistoryKey" value="Input&#9;FILE&#9;file://C:/cygwin64/home/eyecwan/sites/livesmart/resources/assets/js/components/LeaveInput.vue&#10;route&#9;FILE&#9;file://C:/cygwin64/home/eyecwan/sites/livesmart/app/Http/routes.php&#10;main&#9;FILE&#9;file://C:/cygwin64/home/eyecwan/sites/livesmart/resources/assets/js/main.js&#10;input&#9;FILE&#9;file://C:/cygwin64/home/eyecwan/sites/livesmart/resources/assets/js/components/Input.vue&#10;topic&#9;FILE&#9;file://C:/cygwin64/home/eyecwan/sites/livesmart/app/Http/Controllers/TopicController.php&#10;inputcon&#9;FILE&#9;file://C:/cygwin64/home/eyecwan/sites/livesmart/app/Http/Controllers/InputController.php&#10;wechat&#9;FILE&#9;file://C:/cygwin64/home/eyecwan/sites/livesmart/config/wechat.php&#10;leave&#9;FILE&#9;file://C:/cygwin64/home/eyecwan/sites/livesmart/resources/assets/js/components/LeaveInput.vue&#10;topics&#9;FILE&#9;file://C:/cygwin64/home/eyecwan/sites/livesmart/resources/assets/js/components/Topics.vue&#10;ind&#9;FILE&#9;file://C:/cygwin64/home/eyecwan/sites/livesmart/resources/views/topic/index.blade.php&#10;index&#9;FILE&#9;file://C:/cygwin64/home/eyecwan/sites/livesmart/resources/views/topic/index.blade.php&#10;user&#9;FILE&#9;file://C:/cygwin64/home/eyecwan/sites/livesmart/app/Http/Controllers/UserController.php&#10;usercon&#9;FILE&#9;file://C:/cygwin64/home/eyecwan/sites/livesmart/app/Http/Controllers/UserController.php&#10;show&#9;FILE&#9;file://C:/cygwin64/home/eyecwan/sites/livesmart/resources/views/user/show.blade.php&#10;inpu&#9;FILE&#9;file://C:/cygwin64/home/eyecwan/sites/livesmart/resources/assets/js/components/Input.vue&#10;t&#9;FILE&#9;file://C:/cygwin64/home/eyecwan/sites/livesmart/app/Http/Controllers/TopicController.php&#10;in&#9;FILE&#9;file://C:/cygwin64/home/eyecwan/sites/livesmart/resources/assets/js/components/Input.vue&#10;usercont&#9;FILE&#9;file://C:/cygwin64/home/eyecwan/sites/livesmart/app/Http/Controllers/UserController.php&#10;home&#9;FILE&#9;file://C:/cygwin64/home/eyecwan/sites/livesmart/app/Http/Controllers/HomeController.php&#10;auth&#9;FILE&#9;file://C:/cygwin64/home/eyecwan/sites/livesmart/app/Http/Middleware/Authenticate.php&#10;app&#9;FILE&#9;file://C:/cygwin64/home/eyecwan/sites/livesmart/resources/views/layouts/app.blade.php&#10;routes&#9;FILE&#9;file://C:/cygwin64/home/eyecwan/sites/livesmart/app/Http/routes.php&#10;leav&#9;FILE&#9;file://C:/cygwin64/home/eyecwan/sites/livesmart/resources/assets/js/components/LeaveInput.vue&#10;fo&#9;FILE&#9;file://C:/cygwin64/home/eyecwan/sites/livesmart/resources/assets/js/components/FollowTopic.vue&#10;show.&#9;FILE&#9;file://C:/cygwin64/home/eyecwan/sites/livesmart/resources/views/topic/show.blade.php&#10;my&#9;FILE&#9;file://C:/cygwin64/home/eyecwan/sites/livesmart/resources/views/user/my.blade.php&#10;accesstoken&#9;null&#9;null&#10;app.&#9;FILE&#9;file://C:/cygwin64/home/eyecwan/sites/livesmart/resources/views/layouts/app.blade.php&#10;create user table&#9;FILE&#9;file://C:/cygwin64/home/eyecwan/sites/livesmart/database/migrations/2014_10_12_000000_create_users_table.php&#10;home.&#9;FILE&#9;file://C:/cygwin64/home/eyecwan/sites/livesmart/resources/views/home.blade.php&#10;home.bl&#9;FILE&#9;file://C:/cygwin64/home/eyecwan/sites/livesmart/resources/views/home.blade.php&#10;input.ph&#9;FILE&#9;file://C:/cygwin64/home/eyecwan/sites/livesmart/app/Input.php&#10;top&#9;FILE&#9;file://C:/cygwin64/home/eyecwan/sites/livesmart/app/Http/Controllers/TopicController.php&#10;input.&#9;FILE&#9;file://C:/cygwin64/home/eyecwan/sites/livesmart/app/Input.php&#10;gulp&#9;FILE&#9;file://C:/cygwin64/home/eyecwan/sites/livesmart/gulpfile.js&#10;csr&#9;FILE&#9;file://C:/cygwin64/home/eyecwan/sites/livesmart/app/Http/Middleware/VerifyCsrfToken.php&#10;welcome&#9;FILE&#9;file://C:/cygwin64/home/eyecwan/sites/livesmart/resources/views/welcome.blade.php&#10;follow&#9;FILE&#9;file://C:/cygwin64/home/eyecwan/sites/livesmart/resources/assets/js/components/FollowTopic.vue&#10;topiccont&#9;FILE&#9;file://C:/cygwin64/home/eyecwan/sites/livesmart/app/Http/Controllers/TopicController.php&#10;authcon&#9;FILE&#9;file://C:/cygwin64/home/eyecwan/sites/livesmart/app/Http/Controllers/Auth/AuthController.php&#10;create user&#9;FILE&#9;file://C:/cygwin64/home/eyecwan/sites/livesmart/database/migrations/2016_07_02_003706_create_follower_user_pivot_table.php&#10;login&#9;null&#9;null&#10;gu&#9;FILE&#9;file://C:/cygwin64/home/eyecwan/sites/livesmart/gulpfile.js&#10;foll&#9;FILE&#9;file://C:/cygwin64/home/eyecwan/sites/livesmart/resources/assets/js/components/FollowTopic.vue&#10;app.bl&#9;FILE&#9;file://C:/cygwin64/home/eyecwan/sites/livesmart/resources/views/layouts/app.blade.php&#10;createinput&#9;FILE&#9;file://C:/cygwin64/home/eyecwan/sites/livesmart/database/migrations/2016_05_26_064545_create_inputs_table.php&#10;fol&#9;FILE&#9;file://C:/cygwin64/home/eyecwan/sites/livesmart/resources/assets/js/components/FollowTopic.vue&#10;topi&#9;FILE&#9;file://C:/cygwin64/home/eyecwan/sites/livesmart/resources/assets/js/components/FollowTopic.vue&#10;topiccon&#9;FILE&#9;file://C:/cygwin64/home/eyecwan/sites/livesmart/app/Http/Controllers/TopicController.php" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -357,12 +356,12 @@
       <workItem from="1469152273650" duration="1676000" />
       <workItem from="1470293578452" duration="2926000" />
       <workItem from="1470366623299" duration="3598000" />
-      <workItem from="1470537130535" duration="593000" />
+      <workItem from="1470537130535" duration="2282000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="391064000" />
+    <option name="totallyTimeSpent" value="392753000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1279" y="0" width="1281" height="1440" extended-state="0" />
@@ -704,6 +703,29 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-2833">
           <caret line="38" column="0" selection-start-line="37" selection-start-column="5" selection-end-line="38" selection-end-column="0" />
+          <folding>
+            <marker date="1468117343134" expanded="false" signature="44:176" placeholder="..." />
+            <marker date="1468117343134" expanded="true" signature="218:3717" placeholder="{...}" />
+            <marker date="1468117343134" expanded="true" signature="228:324" placeholder=" Display a listing of the resource. ..." />
+            <marker date="1468117343134" expanded="true" signature="404:484" placeholder="{...}" />
+            <marker date="1468117343134" expanded="true" signature="513:725" placeholder="{...}" />
+            <marker date="1468117343134" expanded="true" signature="600:664" placeholder="..." />
+            <marker date="1468117343134" expanded="true" signature="734:838" placeholder=" Show the form for creating a new resource. ..." />
+            <marker date="1468117343134" expanded="true" signature="869:893" placeholder="{...}" />
+            <marker date="1468117343134" expanded="true" signature="902:1056" placeholder=" Store a newly created resource in storage. ..." />
+            <marker date="1468117343134" expanded="true" signature="1102:1251" placeholder="{...}" />
+            <marker date="1468117343134" expanded="true" signature="1142:1242" placeholder="..." />
+            <marker date="1468117343134" expanded="true" signature="1143:1241" placeholder="..." />
+            <marker date="1468117343134" expanded="true" signature="1293:1609" placeholder="..." />
+            <marker date="1468117343134" expanded="true" signature="1459:1515" placeholder="..." />
+            <marker date="1468117343134" expanded="true" signature="1618:3056" placeholder=" Display the specified resource. ..." />
+            <marker date="1468117343134" expanded="true" signature="3068:3203" placeholder=" Show the form for editing the specified resource. ..." />
+            <marker date="1468117343134" expanded="true" signature="3235:3258" placeholder="{...}" />
+            <marker date="1468117343134" expanded="true" signature="3267:3444" placeholder=" Update the specified resource in storage. ..." />
+            <marker date="1468117343134" expanded="true" signature="3496:3519" placeholder="{...}" />
+            <marker date="1468117343134" expanded="true" signature="3528:3657" placeholder=" Remove the specified resource from storage. ..." />
+            <marker date="1468117343134" expanded="true" signature="3692:3715" placeholder="{...}" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -711,13 +733,37 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="334">
           <caret line="141" column="20" selection-start-line="141" selection-start-column="20" selection-end-line="141" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/Http/routes.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="527">
-          <caret line="66" column="60" selection-start-line="66" selection-start-column="60" selection-end-line="66" selection-end-column="60" />
+          <folding>
+            <marker date="1468108498546" expanded="false" signature="44:227" placeholder="..." />
+            <marker date="1468108498546" expanded="true" signature="269:4089" placeholder="{...}" />
+            <marker date="1468108498546" expanded="true" signature="307:354" placeholder="{...}" />
+            <marker date="1468108498546" expanded="true" signature="363:459" placeholder=" Display a listing of the resource. ..." />
+            <marker date="1468108498546" expanded="true" signature="489:651" placeholder="{...}" />
+            <marker date="1468108498546" expanded="true" signature="660:764" placeholder=" Show the form for creating a new resource. ..." />
+            <marker date="1468108498546" expanded="true" signature="795:818" placeholder="{...}" />
+            <marker date="1468108498546" expanded="true" signature="827:981" placeholder=" Store a newly created resource in storage. ..." />
+            <marker date="1468108498546" expanded="true" signature="1027:1743" placeholder="{...}" />
+            <marker date="1468108498546" expanded="true" signature="1174:1288" placeholder="..." />
+            <marker date="1468108498546" expanded="true" signature="1175:1278" placeholder="..." />
+            <marker date="1468108498546" expanded="true" signature="1357:1423" placeholder="..." />
+            <marker date="1468108498546" expanded="true" signature="1752:1869" placeholder=" Display the specified resource. ..." />
+            <marker date="1468108498546" expanded="true" signature="1901:1925" placeholder="{...}" />
+            <marker date="1468108498546" expanded="true" signature="1934:2069" placeholder=" Show the form for editing the specified resource. ..." />
+            <marker date="1468108498546" expanded="true" signature="2101:2355" placeholder="{...}" />
+            <marker date="1468108498546" expanded="true" signature="2364:2541" placeholder=" Update the specified resource in storage. ..." />
+            <marker date="1468108498546" expanded="true" signature="2593:2616" placeholder="{...}" />
+            <marker date="1468108498546" expanded="true" signature="2625:2754" placeholder=" Remove the specified resource from storage. ..." />
+            <marker date="1468108498546" expanded="true" signature="2798:2902" placeholder="{...}" />
+            <marker date="1468108498546" expanded="true" signature="2855:2894" placeholder="..." />
+            <marker date="1468108498546" expanded="true" signature="2972:3174" placeholder="..." />
+            <marker date="1468108498546" expanded="true" signature="3015:3144" placeholder="..." />
+            <marker date="1468108498546" expanded="true" signature="3016:3143" placeholder="..." />
+            <marker date="1468108498546" expanded="true" signature="3228:3567" placeholder="..." />
+            <marker date="1468108498546" expanded="true" signature="3412:3503" placeholder="..." />
+            <marker date="1468108498546" expanded="true" signature="3612:3764" placeholder="..." />
+            <marker date="1468108498546" expanded="true" signature="3828:3983" placeholder="..." />
+            <marker date="1468108498546" expanded="true" signature="4026:4086" placeholder="..." />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -728,24 +774,74 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/resources/assets/js/components/LeaveInput.vue">
+    <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1456">
-          <caret line="148" column="65" selection-start-line="148" selection-start-column="65" selection-end-line="148" selection-end-column="65" />
+        <state relative-caret-position="196">
+          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/resources/assets/js/main.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="448">
-          <caret line="16" column="36" selection-start-line="16" selection-start-column="36" selection-end-line="16" selection-end-column="36" />
+        <state relative-caret-position="588">
+          <caret line="25" column="0" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+          <folding>
+            <marker date="1470382843704" expanded="true" signature="129:183" placeholder="{...}" />
+            <marker date="1470382843704" expanded="false" signature="500:729" placeholder="..." />
+            <marker date="1470382843704" expanded="true" signature="742:887" placeholder="{&quot;el&quot;: '#app'...}" />
+            <marker date="1470382843704" expanded="true" signature="775:863" placeholder="{...}" />
+            <marker date="1470382843704" expanded="true" signature="877:885" placeholder="{...}" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
+    <entry file="file://$PROJECT_DIR$/app/Http/routes.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="196">
-          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+        <state relative-caret-position="387">
+          <caret line="46" column="0" selection-start-line="46" selection-start-column="0" selection-end-line="46" selection-end-column="0" />
+          <folding>
+            <marker date="1470554351009" expanded="false" signature="9:390" placeholder="..." />
+            <marker date="1470554351009" expanded="false" signature="398:488" placeholder="..." />
+            <marker date="1470554351009" expanded="true" signature="492:663" placeholder="..." />
+            <marker date="1470554351009" expanded="true" signature="678:726" placeholder="..." />
+            <marker date="1470554351009" expanded="true" signature="696:725" placeholder="..." />
+            <marker date="1470554351009" expanded="true" signature="798:3186" placeholder="..." />
+            <marker date="1470554351009" expanded="true" signature="836:3185" placeholder="..." />
+            <marker date="1470554351009" expanded="true" signature="1406:1470" placeholder="..." />
+            <marker date="1470554351009" expanded="true" signature="1430:1469" placeholder="..." />
+            <marker date="1470554351009" expanded="true" signature="1687:1767" placeholder="..." />
+            <marker date="1470554351009" expanded="true" signature="1707:1766" placeholder="..." />
+            <marker date="1470554351009" expanded="true" signature="1945:2025" placeholder="..." />
+            <marker date="1470554351009" expanded="true" signature="1995:2024" placeholder="..." />
+            <marker date="1470554351009" expanded="true" signature="2044:2128" placeholder="..." />
+            <marker date="1470554351009" expanded="true" signature="2096:2127" placeholder="..." />
+            <marker date="1470554351009" expanded="true" signature="2147:2287" placeholder="..." />
+            <marker date="1470554351009" expanded="true" signature="2195:2286" placeholder="..." />
+            <marker date="1470554351009" expanded="true" signature="2224:2279" placeholder="..." />
+            <marker date="1470554351009" expanded="true" signature="2306:2449" placeholder="..." />
+            <marker date="1470554351009" expanded="true" signature="2356:2448" placeholder="..." />
+            <marker date="1470554351009" expanded="true" signature="2385:2442" placeholder="..." />
+            <marker date="1470554351009" expanded="true" signature="2468:2631" placeholder="..." />
+            <marker date="1470554351009" expanded="true" signature="2511:2630" placeholder="..." />
+            <marker date="1470554351009" expanded="true" signature="2538:2624" placeholder="..." />
+            <marker date="1470554351009" expanded="true" signature="2650:2818" placeholder="..." />
+            <marker date="1470554351009" expanded="true" signature="2695:2817" placeholder="..." />
+            <marker date="1470554351009" expanded="true" signature="2722:2810" placeholder="..." />
+            <marker date="1470554351009" expanded="true" signature="2904:3063" placeholder="..." />
+            <marker date="1470554351009" expanded="true" signature="2930:3062" placeholder="..." />
+            <marker date="1470554351009" expanded="true" signature="3082:3182" placeholder="..." />
+            <marker date="1470554351009" expanded="true" signature="3109:3181" placeholder="..." />
+            <marker date="1470554351009" expanded="true" signature="3201:3246" placeholder="..." />
+            <marker date="1470554351009" expanded="true" signature="3219:3245" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/assets/js/components/LeaveInput.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3892">
+          <caret line="139" column="67" selection-start-line="139" selection-start-column="62" selection-end-line="139" selection-end-column="67" />
           <folding />
         </state>
       </provider>
