@@ -14,6 +14,7 @@ Vue.use(vueResource);
 
 // Laravel CSRF protection
 Vue.http.headers.common['X-CSRF-TOKEN'] = document.querySelector('#token').getAttribute('content');
+Vue.http.options.emulateJSON = true;
 
 //import Alerts from './components/Alert.vue';
 import Inputs from './components/Input.vue';
